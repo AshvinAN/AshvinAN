@@ -3,10 +3,8 @@
   <img src="https://github.com/AshvinAN/AshvinAN/blob/main/WhatsApp%20Image%202025-07-10%20at%2000.24.48_0698f60e.jpg?raw=true" alt="Ashvin Logo" width="140" />
 </p>
 
-<h1 align="center">Hi, I'm Ashvin 👋</h1>
+<h1 align="center">👋 Hi, I'm Ashvin A Nair</h1>
 <p align="center">🚀 DevOps | Cloud | Automation | Builder Mindset</p>
-
-# 👋 Hi, I'm Ashvin A Nair
 
 **DevOps & Cloud Enthusiast** building dreams with code and containers ☁️
 
