@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20there!%20I'm%20Ashvin&animation=fadeIn&color=gradient&height=120"/>
 </p>
 
-# 👋 Hi, my name is Ashvin A Nair
+# 👋 Hi, I'm Ashvin A Nair
 
 **DevOps & Cloud Enthusiast** building dreams with code and containers ☁️
 
