@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20there!%20I'm%20Ashvin&animation=fadeIn&color=gradient&height=120"/>
+  <img src="https://github.com/AshvinAN/AshvinAN/blob/main/WhatsApp%20Image%202025-07-10%20at%2000.24.48_0698f60e.jpg" alt="Ashvin A Nair Logo" width="200"/>
 </p>
 
 # 👋 Hi, I'm Ashvin A Nair
