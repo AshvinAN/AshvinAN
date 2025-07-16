@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Ashvin A Nair</h1>
-<p align="center">🚀 DevOps | Cloud | Automation | Builder Mindset</p>
+<p align="center">🚀 DevOps | Cloud | Automation |</p>
 
 **I break down complex cloud systems, turn them into playable games, and deploy them with elegance. Building DevOps skills one experiment at a time** ☁️
 
