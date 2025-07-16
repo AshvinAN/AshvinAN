@@ -1,10 +1,16 @@
+<!-- Banner with your name -->
 <p align="center">
-  <!-- Banner without text -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:434343&height=300&section=header&text=&fontColor=ffffff" />
-  
-  <!-- Centered Logo -->
-  <img src="https://github.com/AshvinAN/AshvinAN/blob/main/WhatsApp%20Image%202025-07-10%20at%2000.24.48_0698f60e.jpg?raw=true" alt="Ashvin Logo" width="140" style="margin-top:-180px;" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:434343&height=220&section=header&text=Ashvin%20A%20Nair&fontColor=ffffff&fontSize=35" />
 </p>
+
+<!-- Centered Logo under banner -->
+<p align="center">
+  <img src="https://github.com/AshvinAN/AshvinAN/blob/main/WhatsApp%20Image%202025-07-10%20at%2000.24.48_0698f60e.jpg?raw=true" alt="Ashvin Logo" width="140" />
+</p>
+
+<h1 align="center">Hi, I'm Ashvin 👋</h1>
+<p align="center">🚀 DevOps | Cloud | Automation | Builder Mindset</p>
+
 # 👋 Hi, I'm Ashvin A Nair
 
 **DevOps & Cloud Enthusiast** building dreams with code and containers ☁️
