@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/AshvinAN/AshvinAN/blob/main/WhatsApp%20Image%202025-07-10%20at%2000.24.48_0698f60e.jpg" alt="Ashvin A Nair Logo" width="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:434343&height=180&section=header&text=Ashvin%20A%20Nair&fontColor=ffffff&fontSize=30" />
+  <br/>
+  <img src="https://github.com/AshvinAN/AshvinAN/blob/main/WhatsApp%20Image%202025-07-10%20at%2000.24.48_0698f60e.jpg" alt="Ashvin Logo" width="120" />
 </p>
 
 # 👋 Hi, I'm Ashvin A Nair
