@@ -1,9 +1,4 @@
-<!-- Banner with your name -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:434343&height=220&section=header&text=Ashvin%20A%20Nair&fontColor=ffffff&fontSize=35" />
-</p>
-
-<!-- Centered Logo under banner -->
+<!-- Centered Logo Only -->
 <p align="center">
   <img src="https://github.com/AshvinAN/AshvinAN/blob/main/WhatsApp%20Image%202025-07-10%20at%2000.24.48_0698f60e.jpg?raw=true" alt="Ashvin Logo" width="140" />
 </p>
