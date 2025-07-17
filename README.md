@@ -3,7 +3,7 @@
   <img src="https://github.com/AshvinAN/AshvinAN/blob/main/WhatsApp%20Image%202025-07-10%20at%2000.24.48_0698f60e.jpg?raw=true" alt="Ashvin Logo" width="140" />
 </p>
 # 💫 About Me:
-👋 Hi, I'm Ashvin A Nair<br><br>I break down complex cloud systems, turn them into playable games, and deploy them with elegance. Building DevOps skills one experiment at a time <br><br>💼 What I'm Working On:<br><br>🕹️ 2048 Game on AWS EKS — deployed with Fargate, Kubernetes, ALB Ingress<br>📂 Project Repo<br>🧪 Learning: Terraform, GitHub Actions, CI/CD pipelines, cloud security<br>
+👋 Hi, 𝐈'𝐦 𝐀𝐬𝐡𝐯𝐢𝐧 𝐀 𝐍𝐚𝐢𝐫<br><br>I break down complex cloud systems, turn them into playable games, and deploy them with elegance. Building DevOps skills one experiment at a time <br><br>💼 What I'm Working On:<br><br>🕹️ 2048 Game on AWS EKS — deployed with Fargate, Kubernetes, ALB Ingress<br>📂 Project Repo<br>🧪 Learning: Terraform, GitHub Actions, CI/CD pipelines, cloud security<br>
 
 
 ## 🌐 Socials:
